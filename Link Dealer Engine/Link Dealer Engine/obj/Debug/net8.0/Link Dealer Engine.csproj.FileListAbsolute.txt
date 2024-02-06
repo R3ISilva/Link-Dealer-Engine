@@ -1,0 +1,14 @@
+C:\CCG Online\Link Dealer Engine\Link Dealer Engine\bin\Debug\net8.0\Link Dealer Engine.exe
+C:\CCG Online\Link Dealer Engine\Link Dealer Engine\bin\Debug\net8.0\Link Dealer Engine.deps.json
+C:\CCG Online\Link Dealer Engine\Link Dealer Engine\bin\Debug\net8.0\Link Dealer Engine.runtimeconfig.json
+C:\CCG Online\Link Dealer Engine\Link Dealer Engine\bin\Debug\net8.0\Link Dealer Engine.dll
+C:\CCG Online\Link Dealer Engine\Link Dealer Engine\bin\Debug\net8.0\Link Dealer Engine.pdb
+C:\CCG Online\Link Dealer Engine\Link Dealer Engine\obj\Debug\net8.0\Link Dealer Engine.GeneratedMSBuildEditorConfig.editorconfig
+C:\CCG Online\Link Dealer Engine\Link Dealer Engine\obj\Debug\net8.0\Link Dealer Engine.AssemblyInfoInputs.cache
+C:\CCG Online\Link Dealer Engine\Link Dealer Engine\obj\Debug\net8.0\Link Dealer Engine.AssemblyInfo.cs
+C:\CCG Online\Link Dealer Engine\Link Dealer Engine\obj\Debug\net8.0\Link Dealer Engine.csproj.CoreCompileInputs.cache
+C:\CCG Online\Link Dealer Engine\Link Dealer Engine\obj\Debug\net8.0\Link Dealer Engine.dll
+C:\CCG Online\Link Dealer Engine\Link Dealer Engine\obj\Debug\net8.0\refint\Link Dealer Engine.dll
+C:\CCG Online\Link Dealer Engine\Link Dealer Engine\obj\Debug\net8.0\Link Dealer Engine.pdb
+C:\CCG Online\Link Dealer Engine\Link Dealer Engine\obj\Debug\net8.0\Link Dealer Engine.genruntimeconfig.cache
+C:\CCG Online\Link Dealer Engine\Link Dealer Engine\obj\Debug\net8.0\ref\Link Dealer Engine.dll
